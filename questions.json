@@ -1,0 +1,122 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "The contracted form of ‘not’ is:",
+    "options": ["’t", "nt","n’t","’nt"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "Which mark helps us in contracting primary verbs in a pronoun-verb unit?",
+    "options": [" Single quotes", " Colon"," Semicolon"," Apostrophe"],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "Which sentence has no error:",
+    "options": [" I aint going there.", " I ain't going thereg", " I am not going there.", " Both B and C"],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "‘They’d’ is the contracted form of which Pronoun-Verb unit:",
+    "options": [" They and had", " They and did"," They and would"," Both A and C"],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q5.",
+    "question": " You’hve to study hard this time.<br>The above sentence is grammatically correct.",
+    "options": ["True", "False"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "‘She’s’ is the contracted form of which Pronoun-Verb unit:",
+    "options": [" She and is"," She and was"," She and has"," Both A and C"],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "Identify the erroneous sentence:",
+    "options": [" They’ll reach home on the 20th of next month.", " He’wl submit his assignment on Monday."," Is’nt she your mother?"," Both B and C"],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "What is the pronoun-verb contraction of ‘They-are’?",
+    "options": [" They’ar", " They’are", " They’re", " None of the above"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "……………………been kept here.",
+    "options": [" It had", " It did"," I'd"," Both A and C"],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "Which sentence has no error:",
+    "options": [" Im’ interested in joining your cohort.", " I’m interested in joining your cohort."," ‘M interested in joining your cohort."," I ‘m’ interested in joining your cohort."],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q11.",
+    "question": " Choose the correct sentence:",
+    "options": [" We’ar happy to launch our newest product.", " We’r happy to launch our newest product.", " We’re happy to launch our newest product.", " Wer’e happy to launch our newest product."],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q12.",
+    "question": "Choose the erroneous sentence:",
+    "options": [" They’ve submitted their assignments."," He’s sleeping now."," I shant do this again."," We’ll help you with your gardening."],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q13.",
+    "question": "He  ……………………….go back to London again.",
+    "options": [" Wont", " W’nt"," Wo’nt"," Won’t"],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "Does the sentence below show correct pronoun-verb contractions:<br>She’d have called me, if I’d not asked her to resolve the conflict today itself.",
+    "options": ["Yes", "No"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q15.",
+    "question": "  Contractions are welcome in all sorts of writing and speech.",
+    "options": ["True", "False"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q16.",
+    "question": " There is a blue bag on the table, do not keep it inside the closet. <br>The possible contractions in the above sentence are:",
+    "options": [" Theres’ only ", " There’s and dont"," There’s and dont"," There’s and don’t"],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "The contracted form of ‘would have’ is ‘d’ve’.<br>What is correct about the above sentence?",
+    "options": [" The fact in the sentence is incorrect.", " ‘Would’ve’ is the contracted form of ‘would have’.", " ‘d’ve’ is a double negative and it can be used in speech and written dialogue but not in any other kind of writing", " Both B and C"],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "Contractions are possible with nouns.",
+    "options": ["True", "False"],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q19.",
+    "question": " ‘We’cd’ is the contraction of ‘we could’",
+    "options": ["True", "False"],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q20.",
+    "question": " <u>He isn’t’</u> or <u>‘He’s not’</u> is contraction of ‘He is not’ <br>The above sentence is:",
+    "options": ["Correct", "Incorrect"],
+    "correct": 0
+  }
+]
